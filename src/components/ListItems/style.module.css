@@ -1,0 +1,13 @@
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+.items{
+    display: flex;
+    flex-direction: column;
+   border-width: 10px;
+   border-color: black;
+   
+}
+
